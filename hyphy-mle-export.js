@@ -1,3 +1,5 @@
+#!/usr/local/bin/node 
+
 var to_csv = require('hyphy-tools');
 
 var argv = require("optimist")
