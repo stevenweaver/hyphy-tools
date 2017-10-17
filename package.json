@@ -1,0 +1,19 @@
+{
+  "name": "hyphy-tools",
+  "version": "1.0.0",
+  "description": "tools for hyphy",
+  "main": "csv-mle-export.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "optimist": "^0.6.1",
+    "papaparse": "^4.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Steven Weaver",
+  "license": "MIT"
+}
