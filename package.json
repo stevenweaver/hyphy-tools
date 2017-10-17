@@ -6,6 +6,9 @@
   "directories": {
     "test": "test"
   },
+  "bin" : {
+    "hyphy-mle-export" : "./hyphy-mle-export.js"
+  },
   "dependencies": {
     "optimist": "^0.6.1",
     "papaparse": "^4.3.6"
