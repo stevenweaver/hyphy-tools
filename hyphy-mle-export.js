@@ -1,4 +1,4 @@
-var to_csv = require('./csv-mle-export.js');
+var to_csv = require('hyphy-tools');
 
 var argv = require("optimist")
             .default('i','')
